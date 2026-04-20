@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/Modules/" />
+  <Folder Name="/Modules/Orders/">
+    <Project Path="Modules/Orders/Orders.Api/Orders.Api.csproj" />
+    <Project Path="Modules/Orders/Orders.Application/Orders.Application.csproj" />
+    <Project Path="Modules/Orders/Orders.Domain/Orders.Domain.csproj" />
+    <Project Path="Modules/Orders/Orders.Infrastructure/Orders.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/Shared/">
+    <Project Path="Shared/Shared.Database/Shared.Database.csproj" />
+    <Project Path="Shared/Shared.Kernel/Shared.Kernel.csproj" />
+  </Folder>
+  <Project Path="modmon.Console/modmon.Console.csproj" />
+  <Project Path="modmon.Tests/modmon.Tests.csproj" />
+</Solution>
