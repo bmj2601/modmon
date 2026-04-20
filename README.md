@@ -1,0 +1,2 @@
+# modmon
+Modular monolith
